@@ -1,14 +1,14 @@
 # Meu progresso no Bootcamp Banco PAN Java Developer
 
-### [x] Bootcamp iniciado
-### [ ] Conheça as Oportunidades da DIO
-### [ ] Seja Protagonista Neste Bootcamp
-### [ ] Introdução ao Desenvolvimento Moderno de Software
-### [ ] Introdução à Programação e Pensamento Computacional
-### [ ] Trabalhando em Equipes Ágeis
-### [ ] Introdução ao Git e ao GitHub
-### [ ] Como Entregar seu Desafio de Projeto
-### [ ] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+### [X] Bootcamp iniciado
+### [X] Conheça as Oportunidades da DIO
+### [X] Seja Protagonista Neste Bootcamp
+### [X] Introdução ao Desenvolvimento Moderno de Software
+### [X] Introdução à Programação e Pensamento Computacional
+### [X] Trabalhando em Equipes Ágeis
+### [X] Introdução ao Git e ao GitHub
+### [X] Como Entregar seu Desafio de Projeto
+### [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 ### [ ] Dominando IDEs Java
 ### [ ] Aprendendo a Sintaxe Java
 ### [ ] Lógica Condicional e Controle de Fluxos em Java
