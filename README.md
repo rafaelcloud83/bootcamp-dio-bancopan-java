@@ -9,7 +9,7 @@
 ### [X] Introdução ao Git e ao GitHub
 ### [X] Como Entregar seu Desafio de Projeto
 ### [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-### [ ] Dominando IDEs Java
+### [X] Dominando IDEs Java
 ### [ ] Aprendendo a Sintaxe Java
 ### [ ] Lógica Condicional e Controle de Fluxos em Java
 ### [ ] Estruturas de Repetição e Arrays em Java
