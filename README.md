@@ -12,7 +12,7 @@
 ### [X] Dominando IDEs Java
 ### [X] Aprendendo a Sintaxe Java
 ### [X] Lógica Condicional e Controle de Fluxos em Java
-### [ ] Estruturas de Repetição e Arrays em Java
+### [X] Estruturas de Repetição e Arrays em Java
 ### [ ] Estrutura de dados em Java
 ### [ ] Entendendo Métodos Java
 ### [ ] Desafio: Fábrica de Carros
