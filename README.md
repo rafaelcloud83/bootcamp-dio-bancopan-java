@@ -13,7 +13,7 @@
 ### [X] Aprendendo a Sintaxe Java
 ### [X] Lógica Condicional e Controle de Fluxos em Java
 ### [X] Estruturas de Repetição e Arrays em Java
-### [ ] Estrutura de dados em Java
+### [X] Estrutura de dados em Java
 ### [ ] Entendendo Métodos Java
 ### [ ] Desafio: Fábrica de Carros
 ### [ ] Desafio: Imprimindo Positivos e Média
