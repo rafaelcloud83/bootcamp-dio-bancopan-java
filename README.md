@@ -14,12 +14,12 @@
 ### [X] Lógica Condicional e Controle de Fluxos em Java
 ### [X] Estruturas de Repetição e Arrays em Java
 ### [X] Estrutura de dados em Java
-### [ ] Entendendo Métodos Java
-### [ ] Desafio: Fábrica de Carros
-### [ ] Desafio: Imprimindo Positivos e Média
-### [ ] Desafio: Soma de H com N Termos
-### [ ] Desafio: Dragão!
-### [ ] Desafio: Fibonacci Fácil
+### [X] Entendendo Métodos Java
+### [X] Desafio: Fábrica de Carros
+### [X] Desafio: Imprimindo Positivos e Média
+### [X] Desafio: Soma de H com N Termos
+### [X] Desafio: Dragão!
+### [X] Desafio: Fibonacci Fácil
 ### [ ] Programação Orientada a Objetos com Java
 ### [ ] Trabalhando com Collections Java
 ### [ ] Debugging Java
