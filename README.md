@@ -20,7 +20,7 @@
 ### [X] Desafio: Soma de H com N Termos
 ### [X] Desafio: Dragão!
 ### [X] Desafio: Fibonacci Fácil
-### [ ] Programação Orientada a Objetos com Java
+### [X] Programação Orientada a Objetos com Java
 ### [ ] Trabalhando com Collections Java
 ### [ ] Debugging Java
 ### [ ] Tratamento de Exceções em Java
