@@ -21,7 +21,7 @@
 ### [X] Desafio: Dragão!
 ### [X] Desafio: Fibonacci Fácil
 ### [X] Programação Orientada a Objetos com Java
-### [ ] Trabalhando com Collections Java
+### [X] Trabalhando com Collections Java
 ### [ ] Debugging Java
 ### [ ] Tratamento de Exceções em Java
 ### [ ] Gerenciamento de Dependências e Build em Java com Maven
