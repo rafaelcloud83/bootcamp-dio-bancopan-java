@@ -22,7 +22,7 @@
 ### [X] Desafio: Fibonacci Fácil
 ### [X] Programação Orientada a Objetos com Java
 ### [X] Trabalhando com Collections Java
-### [ ] Debugging Java
+### [X] Debugging Java
 ### [ ] Tratamento de Exceções em Java
 ### [ ] Gerenciamento de Dependências e Build em Java com Maven
 ### [ ] Testes Unitários Com JUnit
