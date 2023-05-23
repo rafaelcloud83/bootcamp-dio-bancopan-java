@@ -25,7 +25,7 @@
 ### [X] Debugging Java
 ### [X] Tratamento de Exceções em Java
 ### [X] Gerenciamento de Dependências e Build em Java com Maven
-### [ ] Testes Unitários Com JUnit
+### [X] Testes Unitários Com JUnit
 ### [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 ### [ ] Primeiros Passos com SQL
 ### [ ] Introdução ao MongoDB e Bancos de Dados NoSQL
