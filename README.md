@@ -27,7 +27,7 @@
 ### [X] Gerenciamento de Dependências e Build em Java com Maven
 ### [X] Testes Unitários Com JUnit
 ### [X] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-### [ ] Primeiros Passos com SQL
+### [X] Primeiros Passos com SQL
 ### [ ] Introdução ao MongoDB e Bancos de Dados NoSQL
 ### [ ] Boas práticas com DynamoDB
 ### [ ] Principais Protocolos de Comunicação da Internet
