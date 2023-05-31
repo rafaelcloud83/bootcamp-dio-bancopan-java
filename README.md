@@ -28,7 +28,7 @@
 ### [X] Testes Unitários Com JUnit
 ### [X] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 ### [X] Primeiros Passos com SQL
-### [ ] Introdução ao MongoDB e Bancos de Dados NoSQL
+### [X] Introdução ao MongoDB e Bancos de Dados NoSQL
 ### [ ] Boas práticas com DynamoDB
 ### [ ] Principais Protocolos de Comunicação da Internet
 ### [ ] Imersão no Spring Framework com Spring Boot
