@@ -29,7 +29,7 @@
 ### [X] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 ### [X] Primeiros Passos com SQL
 ### [X] Introdução ao MongoDB e Bancos de Dados NoSQL
-### [ ] Boas práticas com DynamoDB
+### [X] Boas práticas com DynamoDB
 ### [ ] Principais Protocolos de Comunicação da Internet
 ### [ ] Imersão no Spring Framework com Spring Boot
 ### [ ] Criando uma API REST Documentada com Spring Web e Swagger
