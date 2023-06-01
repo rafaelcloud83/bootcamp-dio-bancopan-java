@@ -30,7 +30,7 @@
 ### [X] Primeiros Passos com SQL
 ### [X] Introdução ao MongoDB e Bancos de Dados NoSQL
 ### [X] Boas práticas com DynamoDB
-### [ ] Principais Protocolos de Comunicação da Internet
+### [X] Principais Protocolos de Comunicação da Internet
 ### [ ] Imersão no Spring Framework com Spring Boot
 ### [ ] Criando uma API REST Documentada com Spring Web e Swagger
 ### [ ] Adicionando Segurança a uma API REST com Spring Security
