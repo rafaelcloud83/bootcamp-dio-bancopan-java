@@ -34,7 +34,7 @@
 ### [X] Imersão no Spring Framework com Spring Boot
 ### [X] Criando uma API REST Documentada com Spring Web e Swagger
 ### [X] Adicionando Segurança a uma API REST com Spring Security
-### [ ] Conhecendo Spring Data JPA na prática com Java
+### [X] Conhecendo Spring Data JPA na prática com Java
 ### [ ] Criando uma API REST Conectada ao Amazon RDS com Java
 ### [ ] Explorando Padrões de Projetos na Prática com Java
 ### [ ] Desafio: Animal
