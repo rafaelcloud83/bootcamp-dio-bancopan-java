@@ -36,10 +36,10 @@
 ### [X] Adicionando Segurança a uma API REST com Spring Security
 ### [X] Conhecendo Spring Data JPA na prática com Java
 ### [X] Criando uma API REST Conectada ao Amazon RDS com Java
-### [ ] Explorando Padrões de Projetos na Prática com Java
-### [ ] Desafio: Animal
-### [ ] Desafio: Quitanda do Seu Zé
-### [ ] Desafio: Triângulo
-### [ ] Desafio: Conta Espaços e Vogais
-### [ ] Desafio: Taxa de Imposto de Renda
-### [ ] Bootcamp Finalizado
+### [X] Explorando Padrões de Projetos na Prática com Java
+### [X] Desafio: Animal
+### [X] Desafio: Quitanda do Seu Zé
+### [X] Desafio: Triângulo
+### [X] Desafio: Conta Espaços e Vogais
+### [X] Desafio: Taxa de Imposto de Renda
+### [X] Bootcamp Finalizado
